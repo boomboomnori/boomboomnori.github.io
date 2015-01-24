@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>UMT'T</title>
+
+<link>http://umttpiano.blog.me</link>
+
+<language>ko-kr</language>
+
+<copyright>all copyright reserved at UMT'T</copyright>
+
+<itunes:subtitle>음악치료사들의 수다공간</itunes:subtitle>
+
+<itunes:author>UMT'T</itunes:author>
+
+<itunes:summary>Unidentified Music Therapists' Talk show</itunes:summary>
+
+<description>음악치료사들이 다양한 주제를 나누는 이야기공간 umttpiano.blog.me</description>
+
+<itunes:owner>
+
+<itunes:name>김윤경</itunes:name>
+
+<itunes:email>anne@boomboomnori.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://frenchamericancenter.com/blog-english/wp-content/uploads/2013/02/music-therapy.jpg" />
+
+<itunes:category text="Music"/>
+
+
+<item>
+
+<title>Prologue</title>
+
+<itunes:author>UMT'T</itunes:author>
+
+<itunes:subtitle>움트소개</itunes:subtitle>
+
+<itunes:summary><![CDATA[움트를 소개합니다. 움트의 의미와 방향성에 대해 이야기합니다. <a href="http://umttpiano.blog.me">움트 블로그</a>]]</itunes:summary>
+
+<itunes:image href="http://cl.m.globedia.com/imagenes/usuarios/noticias/18/1328625866.jpg" />
+
+<enclosure url="http://blogattach.naver.com/33a62f9c8dd5d70b25c3a291ab4f3249e9ba41a1fd/20150124_297_blogfile/noine_1422073390481_3T4huJ_MP3/%B8%B6%C1%F6%B8%B7+%B8%E0%C6%AE.MP3" length="3361176" type="audio/mpeg" />
+
+<guid isPermalLink="false">http://blogattach.naver.com/33a62f9c8dd5d70b25c3a291ab4f3249e9ba41a1fd/20150124_297_blogfile/noine_1422073390481_3T4huJ_MP3/%B8%B6%C1%F6%B8%B7+%B8%E0%C6%AE.MP3</guid>
+
+<pubDate>Wed, 24 Jan 2015 19:00:00 GMT</pubDate>
+
+<itunes:duration>02:20</itunes:duration>
+
+<itunes:order>1</itunes:order>
+
+</item>
+
+</channel>
+
+</rss>
+
