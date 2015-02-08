@@ -55,6 +55,8 @@
 
 <itunes:order>1</itunes:order>
 
+<itunes:explicit>clean</itunes:explicit>
+
 </item>
 
 <item>
@@ -79,6 +81,8 @@
 
 <itunes:order>2</itunes:order>
 
+<itunes:explicit>clean</itunes:explicit>
+
 </item>
 
 <item>
@@ -102,6 +106,8 @@
 <itunes:duration>15:24</itunes:duration>
 
 <itunes:order>3</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
 
 </item>
 
