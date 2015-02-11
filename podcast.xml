@@ -4,7 +4,7 @@
 
 <channel>
 
-<title>UMT'T (움트)</title>
+<title>UMT'T</title>
 
 <link>http://umtt.tk</link>
 
@@ -27,6 +27,8 @@
 <itunes:email>anne@boomboomnori.com</itunes:email>
 
 </itunes:owner>
+
+<itunes:keywords>UMTT 움트 음악치료사 음악치료</itunes:keywords>
 
 <itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
 
@@ -114,4 +116,3 @@
 </channel>
 
 </rss>
-
