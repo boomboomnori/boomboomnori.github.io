@@ -113,6 +113,32 @@
 
 </item>
 
+<item>
+
+<title>Ep 04. 영화속의 음악치료 (뮤직 네버 스탑)</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>Movie "Music Never Stop"</itunes:subtitle>
+
+<itunes:summary><![CDATA[<뮤직 네버 스탑> 영화 속 음악치료의 역할과 인상깊었던 장면, 음악치료사의 입장에서의 영화 해석을 담았습니다. <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.04_Movie_MusicNeverStop.mp3" length="24790592" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.04_Movie_MusicNeverStop.mp3</guid>
+
+<pubDate>Sub, 27 Feb 2015 22:00:00 GMT</pubDate>
+
+<itunes:duration>16:50</itunes:duration>
+
+<itunes:order>4</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 </channel>
 
 </rss>
