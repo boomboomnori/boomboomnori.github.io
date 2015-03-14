@@ -77,7 +77,7 @@
 
 <guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.02_whoAreWe.mp3</guid>
 
-<pubDate>Sub, 08 Feb 2015 22:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2015 22:00:00 GMT</pubDate>
 
 <itunes:duration>13:54</itunes:duration>
 
@@ -103,7 +103,7 @@
 
 <guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.03_helloGoodbyeSong.mp3</guid>
 
-<pubDate>Sub, 08 Feb 2015 22:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Feb 2015 22:00:00 GMT</pubDate>
 
 <itunes:duration>15:24</itunes:duration>
 
@@ -129,11 +129,37 @@
 
 <guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.04_Movie_MusicNeverStop.mp3</guid>
 
-<pubDate>Sub, 27 Feb 2015 22:00:00 GMT</pubDate>
+<pubDate>Fri, 27 Feb 2015 22:00:00 GMT</pubDate>
 
 <itunes:duration>16:50</itunes:duration>
 
 <itunes:order>4</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
+<item>
+
+<title>Ep 05. 내 인생의 OST</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>OST of my life</itunes:subtitle>
+
+<itunes:summary><![CDATA[음악은 우리를 추억으로 시간여행을 하게 만들죠. 어릴적 들었던 음악, 자주 불렀던 노래, 연주했던 곡들... 오늘 에피소드는 우리의 삶 속에서 가장 기억에 남는 음악에 대해서 이야기 해봅니다. <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.05_OSTofMyLife.mp3" length="25383971" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.05_OSTofMyLife.mp3</guid>
+
+<pubDate>Sat, 14 Mar 2015 10:00:00 GMT</pubDate>
+
+<itunes:duration>17:25</itunes:duration>
+
+<itunes:order>5</itunes:order>
 
 <itunes:explicit>clean</itunes:explicit>
 
