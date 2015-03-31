@@ -165,6 +165,32 @@
 
 </item>
 
+<item>
+
+<title>Ep 06. 기억에 남는 세션</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>Interesting Session</itunes:subtitle>
+
+<itunes:summary><![CDATA[음악치료를 하다보면 정말 기억하고 싶고 잊지 못할 세션이나 클라이언트들이 있지요. 움트의 피.아.노. 음악치료사들의 기억에 남는 치료 세션들을 이야기해보았습니다. <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.06_InterestingSession.mp3" length="26921690" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.06_InterestingSession.mp3</guid>
+
+<pubDate>Tue, 31 Mar 2015 13:00:00 GMT</pubDate>
+
+<itunes:duration>18:21</itunes:duration>
+
+<itunes:order>6</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 </channel>
 
 </rss>
