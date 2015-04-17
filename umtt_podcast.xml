@@ -191,6 +191,32 @@
 
 </item>
 
+<item>
+
+<title>Ep 07. 재창조 연주 part.1</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>Playing Recreation</itunes:subtitle>
+
+<itunes:summary><![CDATA[음악치료 안에서의 재창조연주의 개념과 정의, 활용방법에 대해 이야기해 보았습니다. <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.07_PlayingRecreation.mp3" length="28440217" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.07_PlayingRecreation.mp3</guid>
+
+<pubDate>Sat, 18 Apr 2015 02:00:00 GMT</pubDate>
+
+<itunes:duration>18:59</itunes:duration>
+
+<itunes:order>7</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 </channel>
 
 </rss>
