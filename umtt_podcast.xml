@@ -217,6 +217,32 @@
 
 </item>
 
+<item>
+
+<title>Ep 08. 붐웨커가 뭐야? (What is Boomwhackers?)</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>What is Boomwhackers?</itunes:subtitle>
+
+<itunes:summary><![CDATA[이번 에피소드는 붐웨커라는 악기에 대해서 이야기합니다. 붐웨커의 유래, 종류, 연주방법, 악기관리법 그리고 붐웨커의 활용법과 움트 선생님들의 붐웨커 연주를 들으실 수 있습니다. <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.08_WhatisBoomwhackers.mp3" length="28776917" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.08_WhatisBoomwhackers.mp3</guid>
+
+<pubDate>Sun, 3 May 2015 02:00:00 GMT</pubDate>
+
+<itunes:duration>19:46</itunes:duration>
+
+<itunes:order>8</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 </channel>
 
 </rss>
