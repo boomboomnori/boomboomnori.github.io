@@ -243,6 +243,32 @@
 
 </item>
 
+<item>
+
+<title>Ep 09. 음악극이야기</title>
+
+<itunes:author>피터팬, 아들맘, 노다메</itunes:author>
+
+<itunes:subtitle>Musical Play</itunes:subtitle>
+
+<itunes:summary><![CDATA[9번째 에피소드. 음악극이야기입니다. 음악극의 정의와 음악극을 만든경험들, 음악극으로 만들기 좋은 이야기들에 대해서 이야기해보았습니다. 그리고 움트 선생님들의 음악극도 들으실 수 있습니다! <br/><a href="http://umtt.tk">블로그</a>로 가기]]></itunes:summary>
+
+<itunes:image href="http://cfs.tistory.com/custom/blog/182/1827469/skin/images/umtt_cover2.jpg" />
+
+<enclosure url="https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.09_MusicalPlay.mp3" length="27964567" type="audio/mpeg" />
+
+<guid isPermalLink="false">https://archive.org/download/UMTT_PODCAST/SoundList%2FEp.09_MusicalPlay.mp3</guid>
+
+<pubDate>Thu, 16 Jul 2015 22:00:00 GMT</pubDate>
+
+<itunes:duration>19:13</itunes:duration>
+
+<itunes:order>9</itunes:order>
+
+<itunes:explicit>clean</itunes:explicit>
+
+</item>
+
 </channel>
 
 </rss>
